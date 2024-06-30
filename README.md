@@ -6,11 +6,11 @@
 <h3 align="left">A Person of Integrity Who Thrives in Team Environments, Open to Discussion, Actively Expresses Opinions, and Eager to Learn by Asking Questions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kebalja-dima&label=Profile%20views&color=0e75b6&style=flat" alt="kebalja-dima" /> </p>
 
-- 🌱 I’m currently learning **Mern & Nestjs Fullstack development, DSA**
+- 🌱 I’m currently learning **Mern & Nestjs Fullstack development and DSA.**
 
 - 📫 How to reach me **myfuzei@gmail.com**
 
-- ⚡ Fun fact **I think I`m funny**
+- ⚡ Fun fact **I think I`m funny)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
