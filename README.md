@@ -1,7 +1,7 @@
 ## About Me
 
 <h1 align="left">Hi 👋, I'm Dima</h1>
-<h3 align="left">Dynamic and Dedicated Web Developer from Uzbekistan Seeking Exciting Internship and Job Opportunities in South Korea and Beyond.</h3>
+<h3 align="left">Dynamic and Dedicated Web Developer in South Korea, Seeking Exciting Internship and Job Opportunities in South Korea and Beyond.</h3>
 <h3 align="left">A Versatile Developer with a Passion for Learning and Mastering Diverse Programming Languages.</h3>
 <h3 align="left">A Person of Integrity Who Thrives in Team Environments, Open to Discussion, Actively Expresses Opinions, and Eager to Learn by Asking Questions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kebalja-dima&label=Profile%20views&color=0e75b6&style=flat" alt="kebalja-dima" /> </p>
